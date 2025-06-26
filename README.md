@@ -15,9 +15,3 @@ class Solution(object):
             else:
                 num[mid], num[high] = num[high] , num[mid]
                 high-=1
-
-                """
-                
-                2 0 2 1 1 0
-                
-                """
